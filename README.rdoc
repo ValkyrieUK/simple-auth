@@ -1,0 +1,3 @@
+== Rails-Chat
+
+A chat room application
